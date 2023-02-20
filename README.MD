@@ -1,1 +1,1 @@
-Readme for our repository
+Инструкция по командам Git
